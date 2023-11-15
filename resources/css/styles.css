@@ -3,5 +3,365 @@
 
 html {
     font-family: 'Merriweather Sans', sans-serif;
+    font-weight: normal;
+    background-color: white;
+    color: grey;
 }
 
+body {
+
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+a {
+
+}
+
+button {
+
+}
+
+.container {
+
+}
+
+/* Header Styles */
+
+header {
+
+}
+
+#header-container {
+
+}
+
+#logo {
+
+}
+
+header h3 {
+
+}
+
+#navbar {
+
+}
+
+#navbar a {
+
+}
+
+/* Main Styles */
+
+main {
+
+}
+
+#main-container {
+
+}
+
+/* Section 1 Styles */
+
+#section-1 {
+
+}
+
+#image-holder-S1a {
+
+}
+
+#text-block-S1a {
+
+}
+
+#text-block-S1a h1 {
+
+}
+
+#text-block-S1a p {
+
+}
+
+#text-block-S1a a {
+
+}
+
+/* Section 2 Styles */
+
+#section-2 {
+
+}
+
+#block-S2a {
+
+}
+
+#block-S2a h2 {
+
+}
+
+#block-S2a p {
+
+}
+
+#block-S2a h5 {
+
+}
+
+#block-S2b {
+
+}
+
+#block-S2b1 {
+
+}
+
+#block-S2b1 h3 {
+
+}
+
+#block-S2b1 h4 {
+
+}
+
+#block-S2b1 a {
+
+}
+
+#block-S2b2 {
+
+}
+
+#block-S2b2 h3 {
+
+}
+
+#block-S2b2 h4 {
+
+}
+
+#block-S2b2 a {
+
+}
+
+#block-S2b3 {
+
+}
+
+#block-S2b3 h3 {
+
+}
+
+#block-S2b3 h4 {
+
+}
+
+#block-S2b3 a {
+
+}
+
+/* Section 3 Styles */
+
+#section-3 {
+
+}
+
+/* Section 3 Block a1 Styles */
+
+#block-S3a {
+
+}
+
+#block-S3a h3 {
+
+}
+
+#block-S3a h4 {
+
+}
+
+/* Section 3 Block a2 Styles */
+
+#block-S3a2 {
+
+}
+
+#block-S3a2 h3 {
+
+}
+
+#block-S3a2 h4 {
+
+}
+
+/* Section 3 Block a3 Styles */
+
+#block-S3a3 {
+
+}
+
+#block-S3a3 h3 {
+
+}
+
+#block-S3a3 h4 {
+
+}
+
+/* Section 3 Block a4 Styles */
+
+#block-S3a4 {
+
+}
+
+#block-S3a4 h3 {
+
+}
+
+#block-S3a4 h4 {
+
+}
+
+/* Section 3 Block a5 Styles */
+
+#block-S3a5 {
+
+}
+
+#block-S3a5 h3 {
+
+}
+
+#block-S3a5 h4 {
+
+}
+
+/* Section 3 Block a6 Styles */
+
+#block-S3a6 {
+
+}
+
+#block-S3a6 h3 {
+
+}
+
+#block-S3a6 h4 {
+
+}
+
+/* Section 4 Styles */
+
+#section-4 {
+
+}
+
+#section-4 h1 {
+
+}
+
+#block-S4 {
+
+}
+
+/* Section 4 Block a Styles */
+
+#block-S4a {
+
+}
+
+#block-S4a h3 {
+
+}
+
+#block-S4a h4 {
+
+}
+
+/* Section 4 Block b Styles */
+
+#block-S4b {
+
+}
+
+/* Section 4 Block b1 Styles */
+
+#block-S4b1 {
+
+}
+
+#block-S4b1 h3 {
+
+}
+
+#block-S4b1 h4 {
+
+}
+
+/* Section 4 Block b2 Styles */
+
+#block-S4b2 {
+
+}
+
+#block-S4b2 h3 {
+
+}
+
+#block-S4b2 h4 {
+
+}
+
+/* Footer Styles */
+
+footer {
+
+}
+
+#footer-container {
+
+}
+
+#footer-block1 {
+
+}
+
+#footer-block1 p {
+
+}
+
+#footer-links {
+
+}
+
+#footer-links a {
+
+}
